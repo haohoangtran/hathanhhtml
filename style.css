@@ -2594,7 +2594,7 @@ html {
 body {
     padding: 0;
     line-height: 1.75em;
-    font-family: lato, sans-serif;
+    font-family: 'Baloo Tamma 2', sans-serif;
     font-size: 17px;
     text-align: left;
     color: #6d7c90;
@@ -8478,7 +8478,7 @@ html body .e-widget-wrapper {
     box-shadow: none;
     line-height: 28px;
     font-weight: 900;
-    font-family: lato, sans-serif;
+    font-family: 'Baloo Tamma 2', sans-serif;
     visibility: hidden
 }
 
@@ -9350,7 +9350,7 @@ textarea {
     -webkit-transition: 300ms all cubic-bezier(.4, 0, .2, 1);
     transition: 300ms all cubic-bezier(.4, 0, .2, 1);
     font-size: .9em;
-    font-family: lato, sans-serif;
+    font-family: 'Baloo Tamma 2', sans-serif;
     line-height: 1.8em;
     letter-spacing: .5px;
     font-weight: 700;
@@ -9359,7 +9359,10 @@ textarea {
 }
 
 input[type=submit] {
-    font-family: lato, sans-serif
+    font-family: 'Baloo Tamma 2', sans-serif;
+}
+h5 {
+    font-family: 'Baloo Tamma 2', sans-serif;
 }
 
 .et_manage_input {
