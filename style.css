@@ -3590,7 +3590,7 @@ body.preload * {
 .accent-pink .icon-big,
 .accent-pink .card-button:hover svg,
 .accent-pink .current-item svg {
-    fill: #ff4a9e
+    fill: #10427f
 }
 
 .accent-pink svg .transparent,
@@ -3600,17 +3600,17 @@ body.preload * {
 }
 
 .accent-pink .border-highlight {
-    border-color: #ff4a9e
+    border-color: #10427f
 }
 
 .accent-pink .button.play-button,
 .button.accent-pink.play-button {
-    background-color: #ff4acb
+    background-color: #10427f
 }
 
 .accent-pink .button.play-button:hover,
 .button.accent-pink.play-button:hover {
-    background-color: #ff5ed1
+    background-color: #10427f
 }
 
 .accent-pink .button.primary-button,
@@ -3619,14 +3619,14 @@ body.preload * {
 .category-circle.accent-pink {
     background: -webkit-linear-gradient(330deg, rgba(255, 74, 158, 0) 0%, #ff3190 100%);
     background: linear-gradient(120deg, rgba(255, 74, 158, 0) 0%, #ff3190 100%);
-    background-color: #ff4ac2
+    background-color: #10427f
 }
 
 .accent-pink .button.primary-button:hover,
 .button.primary-button.accent-pink:hover,
 .accent-pink .category-circle:hover,
 .category-circle.accent-pink:hover {
-    background-color: #ff59d0
+    background-color: #10427f
 }
 
 .accent-pink .headline-1,
@@ -3702,7 +3702,7 @@ body.preload * {
 .button.primary-button.accent-purple:hover,
 .accent-purple .category-circle:hover,
 .category-circle.accent-purple:hover {
-    background-color: #bf50ed
+    background-color: #10427f
 }
 
 .accent-purple .tertiary-button,
@@ -6246,8 +6246,8 @@ p+.inline-elements {
 }
 
 #divi-hero {
-    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/hdt-background.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
-    background-image: linear-gradient(#10427f 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/hdt-background.jpg), linear-gradient(60deg, #10427f 16%, #8300e5 64%, #0f3bff 100%)
+    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/htd.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
+    background-image: linear-gradient(#10427f 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/htd.jpg), linear-gradient(60deg, #10427f 16%, #8300e5 64%, #0f3bff 100%)
 }
 
 #marketplace-hero {
@@ -7594,7 +7594,7 @@ li:hover .tooltip_hover {
 
 #main-nav .hamburger span {
     display: block;
-    background: #ff4a9e;
+    background: #10427f;
     width: 24px;
     height: 3px;
     border-radius: 3px;
@@ -7609,7 +7609,7 @@ li:hover .tooltip_hover {
 }
 
 #main-nav .hamburger.toggled span {
-    background: #ff4a9e !important
+    background: #10427f !important
 }
 
 #main-nav .hamburger.toggled span:first-child {
@@ -7873,7 +7873,7 @@ li:hover .tooltip_hover {
 }
 
 #main-nav.et_fixed_nav .hamburger span {
-    background: #ff4a9e
+    background: #10427f
 }
 
 #main-nav .et-main-account-menu .et_account_login_form {
@@ -8948,7 +8948,7 @@ body.renew .et_black_friday_products .column-container:first-of-type {
 }
 
 .accent-pink.perk-card .perk-badge {
-    background: #ff4a9e
+    background: #10427f
 }
 
 .two-column .perk-card .perk-badge {
