@@ -243,7 +243,6 @@ sections.addEventListener("mouseleave", function() {
         j.preventDefault();
     });
     $('.menu-item').click(function(j) {
-        console.log("he")
         var $dropDown = $(this).next('.sub-menu'),
             $parent = $(this).parent('.menu-wrapper'),
             window_width = $(window).width()
