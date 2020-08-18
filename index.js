@@ -16,6 +16,6 @@ app.post('/contact', (req, res) => {
     fs.writeFileSync('./contact.json', JSON.stringify(arr), 'utf8')
     res.redirect('/')
 })
-app.listen(3000, () => {
+app.listen(3005, () => {
     console.log("App is running at http://localhost:3000")
 })
