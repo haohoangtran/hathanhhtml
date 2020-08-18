@@ -88,24 +88,19 @@ sections.addEventListener("mouseleave", function() {
             return $(this).val() != "";
         }),
         $pricing_button_wrapper = $('.pricing-button-wrapper'),
-        $main_header = $('#main-header'),
         $main_nav = $('#main-nav'),
         $logo = $('#logo'),
         $menu = $('#main-nav nav'),
-        $menu_item = $('.menu-item'),
         $menu_callout = $('.menu-callout'),
         $accounts_button = $('#accounts-button'),
         $transparent_header = $('.transparent-header'),
         $cta = $('#bottom-call-to-action'),
-        $pricing_tables = $('#pricing-tables-bottom'),
         $highlightable = $('.et-highlightable'),
         $rellax_active = $('.rellax'),
         $popup = $('.video-popup'),
-        $popup_button = $('.video-popup-button'),
         $popup_join_button = $('.video-popup-join-button'),
         $hamburger_menu = $('.hamburger'),
         $delete_api_key_popup = $('.delete-api-key'),
-        $solid_header = $('.solid-header'),
         fixed_class = 'et_fixed_nav',
         filled_class = 'et_filled',
         highlighted_class = 'et-highlighted',
@@ -182,6 +177,7 @@ sections.addEventListener("mouseleave", function() {
         }
     });
     $(window).bind("load scroll", $.throttle(200, function() {
+        console.log("cc")
         var scroll = $(window).scrollTop(),
             scrollPosition = $body.offset().top
         if (scroll > scrollPosition & !$main_nav.hasClass(fixed_class)) {

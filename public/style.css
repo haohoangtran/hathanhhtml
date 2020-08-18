@@ -644,7 +644,7 @@ img.alignright {
 
 #flyinwrapper.summer #flyin {
     background-color: #ff4c00;
-    background-image: url(images/summer/2020/popup-logo.png);
+    background-image: url(public/images/summer/2020/popup-logo.png);
     background-repeat: no-repeat;
     background-position: center 135px;
     background-size: 80%
@@ -6246,8 +6246,8 @@ p+.inline-elements {
 }
 
 #divi-hero {
-    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(..images/divi/divi-gallery-hero-background.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
-    background-image: linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(..images/divi/divi-gallery-hero-background.jpg), linear-gradient(60deg, #28005f 16%, #8300e5 64%, #0f3bff 100%)
+    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/divi/divi-gallery-hero-background.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
+    background-image: linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/divi/divi-gallery-hero-background.jpg), linear-gradient(60deg, #28005f 16%, #8300e5 64%, #0f3bff 100%)
 }
 
 #marketplace-hero {
@@ -6315,7 +6315,7 @@ p+.inline-elements {
 }
 
 #anniversary-hero {
-    background: #2a0078 url(images/anniversary/2020/background-purple.png) repeat;
+    background: #2a0078 url(public/images/anniversary/2020/background-purple.png) repeat;
     padding-bottom: 100px
 }
 
@@ -9220,7 +9220,7 @@ a.perk-card:hover .perk-card-cta {
 #exitpopup.anniversary .card,
 .anniversary #flyin,
 #bottom-call-to-action.anniversary .card-featured {
-    background: #ffbe1a url(images/anniversary/2020/background.png) repeat;
+    background: #ffbe1a url(public/images/anniversary/2020/background.png) repeat;
     background-size: 320px
 }
 
@@ -9275,7 +9275,7 @@ a.perk-card:hover .perk-card-cta {
 }
 
 #exitpopup.anniversary .card {
-    background: #2a0078 url(images/anniversary/2020/background-purple.png) repeat
+    background: #2a0078 url(public/images/anniversary/2020/background-purple.png) repeat
 }
 
 #exitpopup.anniversary .card h2,
