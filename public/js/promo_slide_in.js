@@ -83,5 +83,5 @@ function elegantPromo(config) {
 var _elegantPromo = elegantPromo({
     cookieExpire: 7,
     longExpire: 365,
-    promohtml: '<div class="promo-slide-in accent-pink card-featured"><div class="promo-slide-in-content"><div class="promo-slide-in-content-inner"><h6>Divi Changes Everything. <span>Give It A Test Drive!</span></h6> <a class="button inline-button" href="https://www.elegantthemes.com/gallery/divi/">Learn More</a></div></div><div class="promo-slide-in-close-promo"></div></div>'
+    promohtml: '<div class="promo-slide-in accent-pink card-featured"><div class="promo-slide-in-content"><div class="promo-slide-in-content-inner"><h6>Divi Changes Everything. <span>Give It A Test Drive!</span></h6> <a class="button inline-button" href="https://www.elegantthemes.com/gallery/htd/">Learn More</a></div></div><div class="promo-slide-in-close-promo"></div></div>'
 });

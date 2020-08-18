@@ -3693,9 +3693,9 @@ body.preload * {
 .button.primary-button.accent-purple,
 .accent-purple .category-circle,
 .category-circle.accent-purple {
-    background: -webkit-linear-gradient(330deg, rgba(143, 66, 236, 0) 0%, #812bea 100%);
-    background: linear-gradient(120deg, rgba(143, 66, 236, 0) 0%, #812bea 100%);
-    background-color: #b142ec
+    background: -webkit-linear-gradient(330deg, rgba(143, 66, 236, 0) 0%, #3776ff 100%);
+    background: linear-gradient(120deg, rgba(143, 66, 236, 0) 0%, #4a42ec 100%);
+    background-color: #00a1cd
 }
 
 .accent-purple .button.primary-button:hover,
@@ -3721,7 +3721,7 @@ body.preload * {
 .dark-background .accent-purple.button.primary-button span,
 .accent-purple .card-title,
 .accent-purple .package_price .price {
-    background-image: -webkit-linear-gradient(120deg, #b142ec 0%, #812bea 100%);
+    background-image: -webkit-linear-gradient(120deg, #3776ff 0%, #10427f 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent
 }
@@ -6246,8 +6246,8 @@ p+.inline-elements {
 }
 
 #divi-hero {
-    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/divi/divi-gallery-hero-background.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
-    background-image: linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/divi/divi-gallery-hero-background.jpg), linear-gradient(60deg, #28005f 16%, #8300e5 64%, #0f3bff 100%)
+    background-image: -webkit-linear-gradient(#4500ca 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/hdt-background.jpg), -webkit-linear-gradient(30deg, #28005f 16%, #8300e5 64%, #0f3bff 100%);
+    background-image: linear-gradient(#10427f 4%, rgba(69, 0, 202, 0) 50%), url(images/htd/hdt-background.jpg), linear-gradient(60deg, #10427f 16%, #8300e5 64%, #0f3bff 100%)
 }
 
 #marketplace-hero {
