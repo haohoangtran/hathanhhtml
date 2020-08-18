@@ -7760,7 +7760,7 @@ li:hover .tooltip_hover {
 }
 
 #main-nav .sub-menu {
-    background: 0 0;
+    background-color: #ffffff;
     box-shadow: none;
     position: absolute;
     visibility: hidden;
