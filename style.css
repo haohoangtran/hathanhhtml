@@ -7575,7 +7575,7 @@ li:hover .tooltip_hover {
     -webkit-transition: 300ms all cubic-bezier(.4, 0, .2, 1);
     transition: 300ms all cubic-bezier(.4, 0, .2, 1);
     max-height: 80px;
-    width: 109px
+    width: 200px
 }
 
 #main-nav #logo img {
